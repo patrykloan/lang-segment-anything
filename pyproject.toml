@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Language segment-anything"
 readme = "README.md"
 documentation = ""
-repository = "https://github.com/luca-medeiros/lang-segment-anything"
+repository = "https://github.com/patrykloan/lang-segment-anything"
 authors = [
   "Luca Medeiros <lucamedeiros@outlook.com>",
 ]
@@ -22,7 +22,7 @@ opencv_python = "^4.7.0.72"
 Pillow = "9.3.0"
 transformers = "^4.27.4"
 lightning = "^2.0.1"
-segment-anything = {git = "https://github.com/facebookresearch/segment-anything.git"}
+segment-anything = {git = "https://github.com/patrykloan/segment-anything.git"}
 
 [tool.poetry.group.dev.dependencies]
 pre-commit = "^2.20.0"
