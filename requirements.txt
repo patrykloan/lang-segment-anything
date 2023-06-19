@@ -24,4 +24,4 @@ pycocotools
 cython
 packaging==21.3
 ninja
-setuptools==65.3.0
+setuptools==68.0.0
